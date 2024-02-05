@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Henrique Rodrigues</h1>
+<h1 align="left">Hi, I'm Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqurr&color=lightgray" alt="Profile views" /> </p>
 
 <p>
