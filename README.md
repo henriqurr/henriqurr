@@ -1,5 +1,4 @@
 <h1 align="left">Hi, I'm Henrique</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqurr&color=lightgray" alt="Profile views" /> </p>
 
 <p>
   I'm all about diving deep into the world of web development, where I've been playing and creating for over 4 years. I'm a Full Stack Developer who really gets into the nuts and bolts of both the front-end and back-end, making things work seamlessly together.
@@ -37,3 +36,10 @@
 <a href="https://instagram.com/henriqurr" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-henriqurr-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+
+<br>
+
+
+##
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henriqurr&color=lightgray" alt="Profile views" /> </p>
