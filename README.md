@@ -18,14 +18,14 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=flat&logo=csharp)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-05122A?style=flat&logo=postgresql)&nbsp;
-![MariaDB](https://img.shields.io/badge/-05122A?style=flat&logo=mariadb)&nbsp;
-![MySQL](https://img.shields.io/badge/-05122A?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-0D1117?style=flat&logo=postgresql)&nbsp;
+![MariaDB](https://img.shields.io/badge/-0D1117?style=flat&logo=mariadb)&nbsp;
+![MySQL](https://img.shields.io/badge/-0D1117?style=flat&logo=mysql)&nbsp;
 
 <br>
 
