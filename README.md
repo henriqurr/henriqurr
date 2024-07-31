@@ -18,6 +18,7 @@
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=flat&logo=csharp)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass)&nbsp;
