@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Henrique</h1>
 
 <p>
-  I'm all about diving deep into the world of web development, where I've been playing and creating for over 4 years. I'm a Full Stack Developer who really gets into the nuts and bolts of both the front-end and back-end, making things work seamlessly together.
+  I'm all about diving deep into the world of web development, where I've been playing and creating for over 9 years. I'm a Full Stack Developer who really gets into the nuts and bolts of both the front-end and back-end, making things work seamlessly together.
 
   I love JavaScript. I'm pretty comfortable with it and all the cool frameworks that come along. I pick up new stuff super quick, which keeps me right on the pulse of the latest and greatest in tech.
 
