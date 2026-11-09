@@ -1,45 +1,34 @@
-<h1 align="left">Hi, I'm Henrique</h1>
+<h1 align="center">Henrique Rodrigues</h1>
+<p align="center"><b>Senior Software Engineer</b> · Back-end, APIs & Integrations</p>
 
-<p>
-  I'm all about diving deep into the world of web development, where I've been playing and creating for over 9 years. I'm a Full Stack Developer who really gets into the nuts and bolts of both the front-end and back-end, making things work seamlessly together.
-
-  I love JavaScript. I'm pretty comfortable with it and all the cool frameworks that come along. I pick up new stuff super quick, which keeps me right on the pulse of the latest and greatest in tech.
-
-  Right now, I'm learning more about how to put together and look after complex software systems. It's this kind of knowledge that I think will really make a difference as I move forward.
-
-  Feel free to see any of my projects!
+<p align="center">
+  <a href="https://www.linkedin.com/in/henriqurr">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:[henry2002rodrigues@gmail.com]">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
+Senior software engineer with +7 years of experience in back-end development, APIs, and systems integration. I design back-end systems and integrations with performance and reliability in mind. Curious and always learning, I keep looking for better ways to build, measure, and improve.
+
+🔌 **Integrations**: CRMs (HubSpot, Freshsales), banking-as-a-service (Bankly), webhooks and third-party APIs.
+
+💸 **Payments & fintech**: transaction workflows, with a focus on data consistency and traceability.
+
+⚙️ **Back-end & APIs**: microservices and REST/GraphQL APIs with NestJS, Node.js, Go, PostgreSQL and MongoDB, on Google Cloud and AWS.
+
+🔐 **Security & real time**: I started out building game servers with encrypted TCP/UDP connections, and have built a web chat with end-to-end encryption.
+
+## Stack
+
+**Back-end**
 <br>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,cs,go,graphql,mongodb,postgres,aws,gcp" />
 
-## Tech
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-Next-0D1117?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=flat&logo=laravel)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=flat&logo=csharp)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-0D1117?style=flat&logo=sass)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-0D1117?style=flat&logo=postgresql)&nbsp;
-![MariaDB](https://img.shields.io/badge/-0D1117?style=flat&logo=mariadb)&nbsp;
-![MySQL](https://img.shields.io/badge/-0D1117?style=flat&logo=mysql)&nbsp;
-
+**Front-end**
 <br>
-
-## Contact
-
-<a href="https://linkedin.com/in/henriqurr" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-henriqurr-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/henriqurr" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-henriqurr-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-<br>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 ##
 
